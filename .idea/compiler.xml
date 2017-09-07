@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tsrj-common" />
+        <module name="tsrj-manager-dao" />
+        <module name="tsrj-manager-interface" />
+        <module name="tsrj-manager-pojo" />
+        <module name="tsrj-manager-service" />
+        <module name="tsrj-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tsrj-common" target="1.7" />
+      <module name="tsrj-manager" target="1.7" />
+      <module name="tsrj-manager-dao" target="1.7" />
+      <module name="tsrj-manager-interface" target="1.7" />
+      <module name="tsrj-manager-pojo" target="1.7" />
+      <module name="tsrj-manager-service" target="1.7" />
+      <module name="tsrj-manager-web" target="1.7" />
+      <module name="tsrjcommon" target="1.7" />
+      <module name="tsrjmanager" target="1.7" />
+      <module name="tsrjmanagerdao" target="1.7" />
+      <module name="tsrjmanagerinterface" target="1.7" />
+      <module name="tsrjmanagerpojo" target="1.7" />
+      <module name="tsrjmanagerservice" target="1.7" />
+      <module name="tsrjmanagerweb" target="1.7" />
+      <module name="tsrjparent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

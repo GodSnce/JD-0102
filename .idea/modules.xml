@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tsrjcommon/tsrj-common.iml" filepath="$PROJECT_DIR$/tsrjcommon/tsrj-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrj-manager.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrj-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrjmanagerdao/tsrj-manager-dao.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrjmanagerdao/tsrj-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrjmanagerinterface/tsrj-manager-interface.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrjmanagerinterface/tsrj-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrjmanagerpojo/tsrj-manager-pojo.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrjmanagerpojo/tsrj-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrjmanagerservice/tsrj-manager-service.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrjmanagerservice/tsrj-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjmanager/tsrjmanagerweb/tsrj-manager-web.iml" filepath="$PROJECT_DIR$/tsrjmanager/tsrjmanagerweb/tsrj-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsrjparent.iml" filepath="$PROJECT_DIR$/tsrjparent.iml" />
+    </modules>
+  </component>
+</project>
